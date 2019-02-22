@@ -1,2 +1,2 @@
-from RNNTEST import RNNTEST
-from RNNTEST2 import RNNTEST2
+from .RNNTEST import RNNTEST
+from .RNNTEST2 import RNNTEST2
